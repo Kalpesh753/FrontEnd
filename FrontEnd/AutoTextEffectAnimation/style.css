@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    background-color: salmon;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 50px;
+}
